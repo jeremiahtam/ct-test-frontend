@@ -1,0 +1,10 @@
+GET https://fictus.10hourlabs.com/talents HTTP/1.1
+content-type: application/json
+
+{
+    //"job_title": "Data Science",
+    //"years_of_experience": "3",
+    //"city": "Los Angeles",
+    //"country": "USA",
+    //"cursor":"e3a80d38-e92b-4161-ae0b-f1c47b9013ae"
+}
